@@ -1,0 +1,17 @@
+#title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#container {
+    text-align: center;
+}
+
+.anchor {
+    text-decoration: none;
+    color: rgb(41, 41, 41);
+}
+
+.anchor:hover {
+    text-decoration: underline;
+}
