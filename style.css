@@ -3,8 +3,13 @@
     text-align: center;
 }
 
-#container {
+.container {
     text-align: center;
+}
+
+.ul-main {
+    display: inline-block;
+    text-align: left;
 }
 
 .anchor {
@@ -14,4 +19,12 @@
 
 .anchor:hover {
     text-decoration: underline;
+}
+
+.img-main {
+    width: 400px;
+    display: inline-block;
+}
+.img-container-main {
+    text-align: center;
 }
